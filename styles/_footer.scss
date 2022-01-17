@@ -3,6 +3,7 @@ footer {
 	color: white;
 	min-height: 10vh;
 	padding: 0% 5%;
+	margin-top: 2rem;
 	@include flex(flex-start, center, row);
 	ul {
 		flex: 1 1 40rem;
